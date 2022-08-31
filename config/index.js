@@ -29,6 +29,10 @@ export const config = {
               {name: 'hr', id: "orkHm5jLfHVrhPViZC6yamtxnK64"},
               {name: 'czl', id: "orkHm5u0xDF1tvTG3-z_uTSx4BzM"},
               {name: 'zqy', id: "orkHm5tit1gkp8tc93Z9abJbvksU"},
+        {name: 'xy', id: "orkHm5sk4KmfT39NxkTn4bXDelvw"},
+        {name: 'czx', id: "orkHm5m-VXYWQsGon_OGeaOZT_r8"},
+         {name: 'xw', orkHm5tD26mDwShttAIGX0Hi3zS0"},
+          {name: 'lwj', orkHm5tBXGrUixaort27LElRdqcA"},
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
