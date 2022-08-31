@@ -25,7 +25,10 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '老婆0', id: "orkHm5neyasgHXdwyhkWa0B9hbSg"},  
+      {name: 'zyp', id: "orkHm5neyasgHXdwyhkWa0B9hbSg"},
+              {name: 'hr', id: "orkHm5jLfHVrhPViZC6yamtxnK64"},
+              {name: 'czl', id: "orkHm5u0xDF1tvTG3-z_uTSx4BzM"},
+              {name: 'zqy', id: "orkHm5tit1gkp8tc93Z9abJbvksU"},
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
@@ -39,9 +42,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "江苏",
     // 所在城市
-    CITY: "惠州",
+    CITY: "南京",
 
     /** 重要节日相关 */
 
